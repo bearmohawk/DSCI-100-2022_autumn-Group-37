@@ -7,4 +7,5 @@ Source: https://www.kaggle.com/datasets/whenamancodes/student-performance
 
 Data set found- check out Maths.csv
 
-Add potential questions for dataset below:
+Potential other datasets:
+https://www.kaggle.com/datasets/thedevastator/udemy-courses-revenue-generation-and-course-anal
